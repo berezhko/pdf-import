@@ -1,7 +1,3 @@
-Вот профессионально оформленный `README.md` для вашей программы:
-
----
-
 # PDF to AutoCAD LISP Importer
 
 A Python script that automates the generation of AutoLISP code to batch-import multiple PDF files into AutoCAD as referenced blocks, positioned sequentially on the drawing space.
